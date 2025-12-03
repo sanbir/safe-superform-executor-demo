@@ -7,7 +7,7 @@
     "demo": "tsx deposit-withdraw.ts"
   },
   "dependencies": {
-    "@p2p-org/safe-superform-executor": "0.1.0",
+    "@p2p-org/safe-superform-executor": "0.1.1",
     "dotenv": "^16.4.5",
     "viem": "^2.9.8"
   },
